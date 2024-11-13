@@ -11,10 +11,10 @@ public class demo{
   public static void main(String[] args){
     int r=18;
     int s=23;
-    int m=i+j;
-	System.out.println(m);
-
-
+    
+    int b=r+s;
+System.out.println(b);
+	  
 	
 }
 
