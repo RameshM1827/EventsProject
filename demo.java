@@ -11,7 +11,9 @@ public class demo{
   public static void main(String[] args){
     int r=18;
     int s=23;
-    System.out.println(");
+    int m=i+j;
+	System.out.println(m);
+
 
 	
 }
